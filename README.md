@@ -12,7 +12,7 @@
 
 - 🤝 My Strategy work Business Intelligence Solutions on Tableau [BI Solutions - Tableau](https://public.tableau.com/profile/siddhi.vinod.prabhu#!/)
 
-- 📝 I regularly write articles on [https://akashmdubey.medium.com/](https://medium.com/@prabhu.si)
+- 📝 I regularly write articles on [https://medium.com/@prabhu.si](https://medium.com/@prabhu.si)
 
 - 💬 Ask me about **Data Analytics, Data Engineering, Business Intelligence, Cloud Engineer, Big Data, Business Analysis**
 
