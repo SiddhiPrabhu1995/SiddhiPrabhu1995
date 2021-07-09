@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashmdubey" alt="akashmdubey" /></a> </p>
 
 
-- 🔭 I’m open to work starting August'2021 [Website Portfolio](https://siddhiprabhu1995.github.io/)
+- 🔭 I’m open to work starting September'2021 [Website Portfolio](https://siddhiprabhu1995.github.io/)
 
 - 👯 My most recent- Big data & Intelligent Analytics Project [Customer Interaction Sentiment Analysis using AWS services](https://github.com/SiddhiPrabhu1995/CSYE7245---Team-4---Big-Data-Sys-Int-Analytics-Master/tree/master/FinalProject) 
 
